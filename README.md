@@ -170,7 +170,7 @@ Under collateralized loans would allow users to more efficiently utilize capital
 There is an alternative approach to the time value of money loss. This approach has been administered by Alchemix, which allows borrowers to benefit from the overcollateralization. If a user deposits 1000 DAI, they can access 500 alUSD. The 1000 DAI that was used as collateral is put in a Yearn vault to earn yield, which is used to pay down the loan over time. DYDX could implement such a system to 
 
 
-##Referrences: 
+## Referrences: 
 
 [1] (https://www.forbes.com/sites/jeffkauflin/2021/10/15/how-a-19-person-cryptocurrency-exchange-surpassed-coinbase-in-daily-trading-volume/?sh=33606b483066)
 
