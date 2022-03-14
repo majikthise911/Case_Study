@@ -191,6 +191,7 @@ There is an alternative approach to the time value of money loss. This approach 
 [8] (https://www.gemini.com/cryptopedia/amm-what-are-automated-market-makers)
 
 [9] (https://investotrend.com/best-metrics-to-measure-defi-projects/)
+
 [10] (https://coinmarketcap.com/derivatives/)
 
 [11] (https://integral.dydx.exchange/comparing-perpetual-markets/)
