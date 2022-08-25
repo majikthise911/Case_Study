@@ -1,4 +1,4 @@
-# Homework_1
+# Case Study 
 
 
 ![dydx logo](https://getcrypto.info/images/logos/dydx.png)
